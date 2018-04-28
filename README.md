@@ -8,4 +8,4 @@
 1. prettier
 
 ### TODO
-* [ ] OnScreenError
+* [x] OnScreenError
